@@ -54,6 +54,14 @@ p {
     border: 10px solid rgb(7, 7, 159);
     margin-bottom: 20px;
   }
+  .paragraph-2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-decoration: underline;
+    background-color: rgb(170, 4, 131);
+    border: 10px solid rgb(120, 27, 208);
+    margin-bottom: 20px;
+  }
 a {
   color: blueviolet;
 }
